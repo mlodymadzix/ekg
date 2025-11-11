@@ -2,6 +2,6 @@
 
 std::vector<WaveAnnotatedSignalDatapoint> WavesDetectionService::Detect(const std::vector<SignalDatapoint> &datapoints,
                                                                         int frequency) {
-    // TODO(Magda): trzeba uzupełnić ok
+    // TODO(Magda): trzeba uzupełnić
     return std::vector<WaveAnnotatedSignalDatapoint>{};
 }
